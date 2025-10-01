@@ -1,0 +1,83 @@
+{
+	"info": {
+		"_postman_id": "7cf6329b-6d36-4b30-b5c3-3407ad284ab6",
+		"name": "tv-tracker",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "48924730",
+		"_collection_link": "https://kalem9090-8436952.postman.co/workspace/Kalem-Mahmok's-Workspace~e0d0be01-2b7f-4500-8364-c8a2d5132cc8/collection/48924730-7cf6329b-6d36-4b30-b5c3-3407ad284ab6?action=share&source=collection_link&creator=48924730"
+	},
+	"item": [
+		{
+			"name": "health",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "creer film",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "episode de série",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "media de user - 001",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "get film par id",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "avoir les media",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "modifier film",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "supprimer film",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "post film sans admin",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
