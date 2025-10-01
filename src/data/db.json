@@ -1,0 +1,9 @@
+{
+  "users": [],
+  "films": [
+    { "id": "1", "titre": "Film de Hamza", "plateforme": "Netflix", "userId": "user-001", "duree": 148, "genre": "Sci-Fi", "annee": 2010 }
+  ],
+  "series": [
+    { "id": "2", "titre": "série de Hamza", "plateforme": "Prime", "userId": "user-001", "statut": "en_cours", "saisons": [] }
+  ]
+}
