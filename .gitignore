@@ -1,4 +1,4 @@
-# Node / TS
+
 node_modules/
 dist/
 *.log
@@ -6,16 +6,13 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# OS / env
+
 .DS_Store
 .env
 
-# Logs : garder le dossier, ignorer les fichiers
-logs/
-!logs/.gitkeep
-logs/app.log
-logs/error.log
 
-# Data : on GARDE db.json (donc on ne l’ignore pas)
-# (si un jour tu veux l’ignorer, décommente la ligne suivante)
-# src/data/db.json
+logs/*
+!logs/.gitkeep
+
+
+
