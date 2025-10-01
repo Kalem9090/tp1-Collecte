@@ -51,4 +51,3 @@ logs/ : dossier des logs (fichiers créés au run)
 Postman
 Importer postman/tv-tracker.postman_collection.json et tester les routes.
 
-Copier le code
